@@ -28,9 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](.src/assets/s1.png)
-![](.src/assets/s2.png)
-![](.src/assets/s3.png)
+![](./s1.png)
+![](./s2.png)
+![](./s3.png)
 
 
 
@@ -51,7 +51,7 @@ Users should be able to:
 - [VueJS](https://vuejs.org/) - JS library
 
 
-
+sa
 
 
 ### Useful resources
